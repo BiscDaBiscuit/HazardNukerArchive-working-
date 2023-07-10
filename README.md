@@ -1,3 +1,13 @@
+# Everything You See Is Old Hazard And Working
+***I know that the images dont load, I dont have those files.***
+***Tell me what isnt working as I havent tested everything***
+
+---
+
+
+
+
+
 <p align= center</p><a href="https://cheataway.com" target="_blank"><img src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Nuker?style=flat-square" </a>
